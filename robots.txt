@@ -1,0 +1,8 @@
+# robots.txt – Transportes Castillo
+# Permite que todos los buscadores indexen el sitio completo
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://transportes-castillo.vercel.app/sitemap.xml
